@@ -26,3 +26,5 @@ All my projects here were to put my learnings and ideas in practice. Connect wit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="80" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="80" height="80" />
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoaffonso&theme=prussian&show_icons=true)
