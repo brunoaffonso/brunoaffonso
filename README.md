@@ -1,4 +1,4 @@
-## <p align=center>👋 Hi. I'm Bruno Affonso!  </p> 
+## <p align=center>👋 Hi. I'm Bruno Affonso!  <a href="https://www.linkedin.com/in/brunoaffonso27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p> 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="80" />](https://www.linkedin.com/in/brunoaffonso27/)
 
 ### Welcome to my GitHub profile
