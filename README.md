@@ -1,7 +1,7 @@
 ## <p align=center>👋 Hi. I'm Bruno Affonso!   </p> 
 
-### About me
-Welcome to my GitHub profile. All my projects here were to put my learnings and ideas in practice. Connect with me on [Linkedin](https://www.linkedin.com/in/brunoaffonso27/).
+### Welcome to my GitHub profile
+All my projects here were to put my learnings and ideas in practice. Connect with me on [Linkedin](https://www.linkedin.com/in/brunoaffonso27/).
 
 ### I'm currently...
 * Improving my Django Skills - [Course Project](https://github.com/brunoaffonso/eventex-wttd)
