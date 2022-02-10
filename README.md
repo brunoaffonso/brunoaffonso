@@ -5,7 +5,6 @@ All my projects here were to put my learnings and ideas in practice. Connect wit
 
 ### I'm currently...
 * Improving my Django Skills - [Course Project](https://github.com/brunoaffonso/eventex-wttd)
-* Practice ReactJS and NextJS in [imersão-react-alura](https://github.com/brunoaffonso/imersao-react-alura)
 
 ### I also enjoy
 * Prototyping (Arduino, Raspberry Pi, Sensors, ...)
